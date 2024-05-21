@@ -1,0 +1,10 @@
+.cartProducts{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.summary{
+    width: 30%;
+    border-radius: 10px;
+}
